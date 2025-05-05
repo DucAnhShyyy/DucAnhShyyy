@@ -13,8 +13,11 @@ I'm deeply passionate about leveraging **Data Science** to solve real-world prob
 - 🗣️ Working with **Natural Language Processing** to uncover insights from text data
 
 ### 🛠 Tech Stack
-- **Languages & Tools**: Python, C++, MySQL, ChromaDB  
-- **Analytics & Visualization**: Power BI, Excel  
+- **Languages & Tools**: Python, C++
+- **Databases**: MySQL, ChromaDB, DBeaver
+- **Analytics & Visualization**: Power BI, Excel, Tableau, Looker Studio
+- **Big Data & ETL**: Apache Airflow, PySpark
+- **DevOps & Version Control**: Wandb, mlflow, Databricks, Git, Docker
 - **Domains**: Time Series, NLP, Automation, Business Intelligence  
 
 ## 💼 Career Goals
@@ -22,14 +25,15 @@ I'm deeply passionate about leveraging **Data Science** to solve real-world prob
 I’m actively seeking opportunities as a:
 - **Data Analyst**  
 - **Data Scientist**  
-- **Machine Learning Engineer**  
+- **Machine Learning Engineer**
+- **AI**
 
 If you're working on exciting projects or have opportunities in these areas, feel free to connect!
 
 ---
 
 📫 **Let's connect:**  
-[LinkedIn](#) | [Email](#) | [Portfolio/Website](#) *(add your links here)*  
+[LinkedIn](#) | [Email](#): ducanh277.work@gmail.com | [Portfolio/Website](#)
 
 <!---
 DucAnhShyyy/DucAnhShyyy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
